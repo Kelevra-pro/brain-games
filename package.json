@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Brain Games is a set of five console games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelevra-pro/frontend-project-lvl1.git"
+  },
+  "author": "Damir Mukhamedinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelevra-pro/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/Kelevra-pro/frontend-project-lvl1#readme"
+}
