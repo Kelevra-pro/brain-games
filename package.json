@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Brain Games is a set of five console games",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Kelevra-pro/frontend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/Kelevra-pro/frontend-project-lvl1#readme"
+  "homepage": "https://github.com/Kelevra-pro/frontend-project-lvl1#readme",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
