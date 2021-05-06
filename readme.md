@@ -13,7 +13,7 @@ cd frontend-project-lvl1/
 make install
 ```
 ### Package installation and brain-games launch
-[![asciicast](https://asciinema.org/a/393798.svg)](https://asciinema.org/a/393798)
+[![asciicast](https://asciinema.org/a/412464.svg)](https://asciinema.org/a/412464)
 
 ### Definition of an even number
-[![asciicast](https://asciinema.org/a/393799.svg)](https://asciinema.org/a/393799)
+[![asciicast](https://asciinema.org/a/412468.svg)](https://asciinema.org/a/412468)
