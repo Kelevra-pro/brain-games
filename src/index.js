@@ -1,7 +1,7 @@
 import readlineSync from 'readline-sync';
 
-export const print = output => console.log(output);
-export const getInput = question => readlineSync.question(`${question} `);
+export const print = (output) => console.log(output);
+export const getInput = (question) => readlineSync.question(`${question} `);
 
 const numberOfTries = 3;
 
